@@ -12,8 +12,9 @@ public class day3 {
 	{
    // Selenium
 		System.out.println("weblogincar");
-		
-}
+		System.out.println("weblogincar2");
+		System.out.println("weblogincar3");
+}     
 	@Test
 	
 	public void MobileLoginCarloan()
