@@ -10,6 +10,8 @@ public class day2 {
 	{
 		
 		System.out.println("good");
+		System.out.println("Very good");
+		System.out.println("Excellent");
 	}
 	
 
