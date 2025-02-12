@@ -14,6 +14,9 @@ public class day3 {
 		System.out.println("weblogincar");
 		System.out.println("weblogincar2");
 		System.out.println("weblogincar3");
+		System.out.println("weblogincar5");
+		System.out.println("weblogincar6");
+		System.out.println("weblogincar7");
 }     
 	@Test
 	
